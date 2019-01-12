@@ -6,9 +6,9 @@ This project is not affiliated with the `imagebam.com`. This is wrapper library 
 
 Here is the example usage:
 
+```python
 from imagebam.imagebam import ImageBam
 
-```python
 consumer_key = 'REGISTER_YOUR_APP_TO_OBTAIN_THIS'
 consumer_secret = 'REGISTER_YOUR_APP_TO_OBTAIN_THIS'
 
