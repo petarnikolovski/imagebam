@@ -1,6 +1,6 @@
 # ImageBam
 
-This project is not affiliated with the `imagebam.com`. This is wrapper library around their [official API][1]. This is only a proof of concept project, and not a full library. It only implements verification (which is usually the hardest part of the library), and one function (to fetch all images from owns gallery).
+This project is not affiliated with the `imagebam.com`. This is wrapper library around their [official API][1]. This is only a proof of concept project, and not a full library. It only implements verification (which is usually the hardest part of the library), and one function (to fetch all images from own gallery).
 
 ## How to use this library?
 
