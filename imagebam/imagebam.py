@@ -106,8 +106,9 @@ class ImageBam:
         :param oauth_verifier: Autorization code for the app, obtained by using
             :func:`ImageBam.authorize_token`
         :type oauth_verifier: string
-        :return:
-        :rtype:
+        :return: Tuple that contains ``oauth_token`` and ``oauth_token_secret``
+            in that order
+        :rtype: tuple
         """
         url = 'http://www.imagebam.com/sys/oauth/request_access_token'
 
